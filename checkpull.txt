@@ -1,2 +1,4 @@
 just a check to see if the pull is working
 check if push is working
+
+check log .
