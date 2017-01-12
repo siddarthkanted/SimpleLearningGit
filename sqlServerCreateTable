@@ -1,0 +1,13 @@
+CREATE TABLE [dbo].[OffersDbTable] (
+    [Id]                    INT            IDENTITY (1, 1) NOT NULL,
+    [PartnerName]           NVARCHAR (MAX) NULL,
+    [OfferTitle]            NVARCHAR (MAX) NULL,
+    [OfferCategory]         NVARCHAR (MAX) NULL,
+    [OfferDescription]      NVARCHAR (MAX) NULL,
+    [StringToBeHighlighted] NVARCHAR (MAX) NULL,
+    [LandingPageLink]       NVARCHAR (MAX) NULL,
+    [OfferImageLink]        NVARCHAR (MAX) NULL,
+    [OfferStartDate]        DATE           NULL,
+    [OfferEndDate]          DATE           NULL
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
