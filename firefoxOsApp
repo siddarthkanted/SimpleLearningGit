@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=GmyDz1-DCPA&t=14s
+
+Install simulator in firefox browser
+https://ftp.mozilla.org/pub/labs/fxos-simulator/
+
+To start the Simulator, you choose it from WebIDE's runtime list. 
+
+
+if firefox not refusing connections,
+ type about:support in your address 
+ Click the Refresh Firefox button
