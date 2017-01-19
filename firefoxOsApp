@@ -9,3 +9,10 @@ To start the Simulator, you choose it from WebIDE's runtime list.
 if firefox not refusing connections,
  type about:support in your address 
  Click the Refresh Firefox button
+
+
+create helloworld app using firefox web ide.
+it should show green valid button
+run firefox os 
+now app run button gets highlighted. so click this button.
+now ur app opens on firefox os.
