@@ -1,0 +1,6 @@
+ALTER TABLE [dbo].[CouponCodeTable]
+   ADD Id INT IDENTITY
+   
+   
+   
+   
