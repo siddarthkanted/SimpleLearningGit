@@ -11,3 +11,10 @@ CREATE TABLE [dbo].[OffersDbTable] (
     [OfferEndDate]          DATE           NULL
     PRIMARY KEY CLUSTERED ([Id] ASC)
 );
+
+
+CREATE TABLE [dbo].[AmazonBrowseNodeIdTable]
+(
+	[Id] INT IDENTITY (1, 1) NOT NULL PRIMARY KEY,
+	[BrowserNodeId] NVARCHAR (MAX) NULL,
+)
